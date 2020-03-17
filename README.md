@@ -1,5 +1,5 @@
-# aplikasi-pengenalan-suku-budaya-android
-Aplikasi Pengenalan Suku Budaya Nusantara Menggunakan Android
+# Indonesian Ethnic and Cultural Introduction App
+Indonesian Ethnic and Cultural Introduction App using Android 
 
 # Software Requirement
 - Programming Language : Java
